@@ -8,3 +8,4 @@ public:
         return res;
     }
 };
+// XOR: bitwise manipulation
