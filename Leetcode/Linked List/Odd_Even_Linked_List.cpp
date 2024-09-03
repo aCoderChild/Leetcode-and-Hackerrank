@@ -68,7 +68,7 @@ public:
         ListNode* evenStart = head->next;
 
         
-        //split into 2 parts and then merge 
+        //split into 2 parts and then merge
         while(even!= NULL && even->next != NULL)
         {
             odd->next = even->next;
