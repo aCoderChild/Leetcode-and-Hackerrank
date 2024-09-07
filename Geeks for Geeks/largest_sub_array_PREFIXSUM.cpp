@@ -52,3 +52,4 @@ int main() {
 // } Driver Code Ends
 
 //PrefixSum technique: cumulative method used for both positive and negative integers
+//use hash table 
