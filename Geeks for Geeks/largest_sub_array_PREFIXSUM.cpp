@@ -51,5 +51,7 @@ int main() {
 }
 // } Driver Code Ends
 
-//PrefixSum technique: cumulative method used for both positive and negative integers
-//use hash table 
+// PrefixSum technique: cumulative method used for both positive and negative integers
+// use hash table
+// time complexity of find function in a map: O(N) (worst case) / O(1) (best case)
+// if it is a normal map => O(log N) (binary search)
