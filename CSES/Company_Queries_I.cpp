@@ -106,14 +106,14 @@ int main()
     preprocess();
 
     //print the table
-    /*
+    
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < M; j++) {
             cout << up[i][j] << " ";
         }
         cout << endl;
     }
-    */
+    
 
     while (q--) {
         int x, k;
